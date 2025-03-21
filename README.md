@@ -22,8 +22,7 @@ This project explores how **AI-driven Natural Language Processing (NLP)** can be
    cd AI-KM-Cybersecurity
 
 **2.Install dependencies**
+ ```bash
 pip install -r requirements.txt
 
-**3.Run the script**
-python phishing_detection.py
 
